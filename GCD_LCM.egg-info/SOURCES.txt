@@ -1,0 +1,9 @@
+CHANGELOG.txt
+LICENCE.txt
+README.md
+setup.py
+GCD_LCM/__init__.py
+GCD_LCM.egg-info/PKG-INFO
+GCD_LCM.egg-info/SOURCES.txt
+GCD_LCM.egg-info/dependency_links.txt
+GCD_LCM.egg-info/top_level.txt

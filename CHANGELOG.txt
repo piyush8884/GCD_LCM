@@ -1,0 +1,10 @@
+# Change Log
+
+1.0.723
+Date of Creation (25th June 2023) and launch==== Friday,July 7 ,2023
+### Added
+
+- Initial release of the project.
+- Implemented functions to calculate GCD and LCM of two or three numbers.
+- Created README file to provide usage instructions.
+
